@@ -6,14 +6,12 @@ UltimateFit is a fitness app where users after registering, can log in and choos
 
 ## Tech stack:
 
-- React (ruby?)
-
-- APIs (Apparently they take care of the back end)
-
+- React
+- Node.js
+- APIs
   - [https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/)
   - [https://rapidapi.com/h0p3rwe/api/youtube-search-and-download](https://rapidapi.com/h0p3rwe/api/youtube-search-and-download)
   - [https://rapidapi.com/edamam/api/recipe-search-and-diet](https://rapidapi.com/edamam/api/recipe-search-and-diet)
-
 - [https://mui.com/material-ui/getting-started/](https://material-ui.com/getting-started)
 
 ## User Stories:
